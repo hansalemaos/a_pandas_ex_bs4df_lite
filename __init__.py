@@ -6,7 +6,8 @@ from fake_headers import Headers
 from flatten_any_dict_iterable_or_whatsoever import fla_tu
 import requests
 from a_pandas_ex_apply_ignore_exceptions import pd_add_apply_ignore_exceptions
-
+import lxml
+import cchardet
 pd_add_apply_ignore_exceptions()
 
 

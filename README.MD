@@ -2,7 +2,7 @@
 
 ## Less details, but much faster
 
-### pip install a-pandas-ex-bs4df-lite 
+### pip install a_pandas_ex_bs4df_lite 
 
 ```python
 from a_pandas_ex_bs4df_lite import pd_add_bs4_to_df_lite
